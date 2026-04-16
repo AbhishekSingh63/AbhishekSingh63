@@ -1,69 +1,57 @@
-Hi, I’m Abhishek Singh
+<h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 
-I am a B.Tech CSE student at Lovely Professional University, building a career at the intersection of Data Science and Full-Stack Engineering. My work ethos centers on disciplined execution, clean architecture, and a commitment to shipping solutions that demonstrate both analytical depth and engineering rigor.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student;Data+Science+Enthusiast;Full+Stack+Developer;DSA+Problem+Solver">
+</p>
 
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
+</p>
 
+## 👨‍💻 About Me
 
-Professional Snapshot
+- 🎓 B.Tech CSE student at Lovely Professional University  
+- 📊 Focused on **Data Science and Full Stack Engineering**  
+- 💻 Strong foundation in **Data Structures & Algorithms**  
+- 🚀 Currently expanding into **Backend Development (Node.js + Express)**  
+- 📈 Interested in **predictive analytics and scalable applications**
 
-- Data Science enthusiast with strong analytical capabilities
-- Front-end developer with hands-on project experience
-- Solid grounding in Data Structures & Algorithms
-- Actively expanding into backend development to complete the full-stack spectrum
-- Focused on delivering structured, industry-aligned project outcomes
+## 🛠 Tech Stack
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,nodejs,pandas,numpy,git,github,vscode"/>
+</p>
 
+## 📊 GitHub Stats
 
-Core Competencies
+<p align="center">
 
-- Data Science & Analytics
-Python
-Pandas, NumPy
-Matplotlib
-Predictive Analysis (in progress)
-Power BI (in progress)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
 
-- Software & Web Development
-Front-end Development (HTML, CSS, JavaScript)
-Building UI-focused web projects
-Backend Technologies (planned learning roadmap)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
 
-- Computer Science Fundamentals
-Good DSA knowledge
-Minor projects implemented using algorithmic problem-solving
-Clean, modular coding style with clarity and maintainability in mind
+</p>
 
+## 🔥 GitHub Streak
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
+</p>
 
-Projects & Technical Work
+## 📈 Contribution Graph
 
-- Front-End Mini Projects: Designed responsive, user-centric interfaces with a focus on usability and component-driven architecture.
-- DSA-Based Mini Project: Implemented a structured Library Management System leveraging core algorithmic principles.
-- Data Science Exercises: Exploratory analysis, data cleaning pipelines, and visualization workflows using Python, Pandas, NumPy, and Matplotlib.
-- More projects will be added to this repository as I expand into backend engineering and advanced analytics.
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night"/>
+</p>
 
+## 🧠 LeetCode Stats
 
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/leetcode_username?theme=dark&font=Baloo"/>
+</p>
 
-Current Focus
+## ⏱ Coding Activity
 
-I’m actively strengthening my capabilities in:
-- Predictive modeling
-- Power BI dashboards
-- Backend development (Node.js / Express planned)
-- End-to-end full-stack + data science project development
-My long-term roadmap is to engineer scalable, data-powered products that bring real value to users and align with enterprise-grade development practices.
-
-
-
-Collaboration & Interests
-
-I’m open to collaborating on:
-- Data Science projects
-- Analytical dashboards and storytelling
-- Full-stack development (front-end + backend as I grow)
-- Academic or industry-aligned technical initiatives
-
-
-
-Connect With Me
-- Feel free to reach out for project collaboration, or technical discussions.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername"/>
+</p>
