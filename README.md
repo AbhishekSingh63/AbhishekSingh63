@@ -1,5 +1,9 @@
 <div align="center">
 
+<!-- ── HERO GIF ─────────────────────────────────────────────────── -->
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdoNnZpMnZzNXJ6dWkxbXVhdXhqMmhrbnBzeGF5eHRnZGtpMm92ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="480" alt="coding gif"/>
+
 <!-- ── IDENTITY ────────────────────────────────────────────────── -->
 
 <br/>
@@ -151,8 +155,8 @@ Status  : 🔨 In Progress
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/abhisheksingh63/]
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:9981abhisheksingh@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/AbhishekSingh63)
 
 </div>
