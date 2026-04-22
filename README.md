@@ -44,9 +44,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhishekSingh63&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_AbhishekSingh63&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekSingh63&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekSingh63&theme=react-dark&hide_border=true"/>
 
 </div>
 
@@ -74,9 +74,9 @@
 
 ## 🚀 Key Projects (Proof of Work)
 
-### 📊 Air Quality Monitoring Dashboard
-- Built using Excel with **automation + validation**
-- Delivered **trend-based environmental insights**
+### 📊 AI Powered Interview Preparation Platform
+- Built using MERN along with **CLaude API**
+- Focus on **Company wise preparation**
 
 ---
 
