@@ -1,57 +1,101 @@
-<h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
+<!-- ================= HEADER ================= -->
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student;Data+Science+Enthusiast;Full+Stack+Developer;DSA+Problem+Solver">
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
-</p>
+<h1>Abhishek Singh</h1>
 
-## 👨‍💻 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Full+Stack+Engineer;Building+Scalable+Systems;Focused+on+Placements+%26+Real+Impact" />
 
-- 🎓 B.Tech CSE student at Lovely Professional University  
-- 📊 Focused on **Data Science and Full Stack Engineering**  
-- 💻 Strong foundation in **Data Structures & Algorithms**  
-- 🚀 Currently expanding into **Backend Development (Node.js + Express)**  
-- 📈 Interested in **predictive analytics and scalable applications**
+</div>
 
-## 🛠 Tech Stack
+---
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,nodejs,pandas,numpy,git,github,vscode"/>
-</p>
+<!-- ================= HERO GIF ================= -->
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
+---
 
-</p>
+## 🧠 Professional Summary
 
-## 🔥 GitHub Streak
+- 🎓 B.Tech CSE @ Lovely Professional University  
+- 📊 Specializing in **Data Science + Full Stack Development**  
+- 💻 Strong in **C++ | Data Structures & Algorithms**  
+- ⚙️ Currently building **backend systems using Node.js & Express**  
+- 🎯 Focus: **Placement-ready projects with real-world applicability**
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
-</p>
+---
 
-## 📈 Contribution Graph
+## ⚙️ Technology Stack
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night"/>
-</p>
+<div align="center">
 
-## 🧠 LeetCode Stats
+<img src="https://skillicons.dev/icons?i=cpp,python,js,nodejs,html,css,pandas,numpy,git,github,vscode" />
 
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/leetcode_username?theme=dark&font=Baloo"/>
-</p>
+</div>
 
-## ⏱ Coding Activity
+---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername"/>
-</p>
+## 📊 GitHub Performance
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Consistency Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 🚀 Key Projects (Proof of Work)
+
+### 📊 Air Quality Monitoring Dashboard
+- Built using Excel with **automation + validation**
+- Delivered **trend-based environmental insights**
+
+---
+
+### 🍎 Obesity & Nutrition Analysis
+- Python-based EDA using **Pandas, NumPy, Matplotlib**
+- Includes **statistical analysis + visualization**
+
+---
+
+### 🤖 Tax Filing Assistant (Ongoing)
+- AI chatbot for simplified tax guidance
+- Focus on **usability + automation**
+
+---
+
+## 🧠 Engineering Mindset
+
+```text
+• Build for scale, not just completion
+• Prioritize clarity over cleverness
+• Focus on execution, not ideas
+• Consistency beats intensity
