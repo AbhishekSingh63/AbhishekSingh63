@@ -1,177 +1,156 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
 
-<!-- ── HERO GIF ─────────────────────────────────────────────────── -->
+<h3 align="center">
+Full Stack Developer | Data Science Enthusiast | AI Developer
+</h3>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdoNnZpMnZzNXJ6dWkxbXVhdXhqMmhrbnBzeGF5eHRnZGtpMm92ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="480" alt="coding gif"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%26+Data+Science+Enthusiast;Competitive+Programmer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
-<!-- ── IDENTITY ────────────────────────────────────────────────── -->
-
-<br/>
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║          A B H I S H E K   S I N G H                     ║
-║          ─────────────────────────────                    ║
-║          Data Science  ×  Full Stack  ×  Systems          ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=1200&color=39D353&center=true&vCenter=true&width=500&lines=%24+whoami+--verbose;%3E+Builder.+Thinker.+Debugger+of+Life.;%3E+B.Tech+CSE+%40+LPU+%7C+Placement-Ready;%3E+C%2B%2B+%7C+DSA+%7C+MERN+%7C+AI+%2F+ML;%3E+Status%3A+Building+things+that+matter." alt="Typing SVG" />
-
-</div>
-
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 
 ---
 
-<!-- ── ABOUT ─────────────────────────────────────────────────── -->
+## 🚀 About Me
 
-## `> about --me`
-
-```yaml
-name       : Abhishek Singh
-degree     : B.Tech CSE — Lovely Professional University
-focus      : [ Data Science, Full Stack Engineering, DSA ]
-currently  : Building backend systems with Node.js & Express
-goal       : Placement-ready. Execution-first. Scale-aware.
-philosophy : "Consistency beats intensity. Clarity over cleverness."
-```
+🎓 B.Tech CSE Student (3rd Year)  
+💻 Passionate about Full Stack Web Development  
+🤖 Exploring Artificial Intelligence & Data Science  
+📈 Strong interest in Competitive Programming and Problem Solving  
+⚡ Building scalable and impactful software solutions  
+🌱 Currently sharpening skills in MERN Stack and DSA  
 
 ---
 
-<!-- ── STACK ──────────────────────────────────────────────────── -->
+## 🛠️ Tech Stack
 
-## `> ls ./tech-stack`
+### 💻 Programming Languages
 
-**Languages**
-```
-C++  ████████████████████░░░  Strong
-Python  ████████████████░░░░░  Proficient
-JavaScript  █████████████░░░░░  Proficient
-```
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript" />
+</p>
 
-**Web & Backend**
-```
-Node.js / Express  ██████████████░░░░  Proficient
-HTML / CSS         ████████████████░░  Strong
-React (learning)   ████████░░░░░░░░░░  Growing
-```
+### 🌐 Web Development
 
-**Data & ML**
-```
-Pandas / NumPy     ████████████████░░  Strong
-Matplotlib         █████████████░░░░░  Proficient
-EDA & Statistics   ████████████████░░  Strong
-```
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+</p>
 
-**Tools**
-```
-Git / GitHub  ·  VS Code  ·  Postman  ·  Linux CLI
-```
+### 🗄️ Databases
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,nodejs,express,html,css,pandas,numpy,git,github,vscode&theme=dark" />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
----
+### ⚙️ Tools & Technologies
 
-<!-- ── PROJECTS ───────────────────────────────────────────────── -->
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-## `> cat ./projects.log`
-
-<br/>
-
-**[01] — AI-Powered Interview Preparation Platform**
-```
-Stack   : MERN + Claude API
-Feature : Company-specific question banks & AI feedback loops
-Focus   : Contextual prep — not generic grinding
-Status  : ✅ Shipped
-```
-
-<br/>
-
-**[02] — Obesity & Nutrition Analysis**
-```
-Stack   : Python · Pandas · NumPy · Matplotlib · Seaborn
-Feature : Full EDA pipeline with statistical hypothesis testing
-Focus   : Visual storytelling through data
-Status  : ✅ Shipped
-```
-
-<br/>
-
-**[03] — Tax Filing Assistant**
-```
-Stack   : AI Chatbot (NLP-driven guidance)
-Feature : Simplified tax workflow for non-expert users
-Focus   : Usability + automation + accessibility
-Status  : 🔨 In Progress
-```
+<p>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
+</p>
 
 ---
 
-<!-- ── STATS ──────────────────────────────────────────────────── -->
+## 🚀 Featured Project
 
-## `> github --stats`
+### 🧠 PrepIQ
 
-<div align="center">
+An intelligent interview preparation platform designed to help students and job seekers prepare efficiently for technical interviews. The platform focuses on DSA practice, aptitude preparation, interview experiences, and AI-powered learning assistance with a modern and scalable MERN architecture.
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AbhishekSingh63&show_icons=true&theme=github_dark&hide_border=true&title_color=39D353&icon_color=39D353&text_color=c9d1d9&bg_color=0d1117"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekSingh63&layout=compact&theme=github_dark&hide_border=true&title_color=39D353&text_color=c9d1d9&bg_color=0d1117"/>
+### ⚡ Tech Stack
 
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekSingh63&theme=github-dark-blue&hide_border=true&ring=39D353&fire=39D353&currStreakLabel=39D353"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekSingh63&theme=github-compact&hide_border=true&color=39D353&line=39D353&point=ffffff&area=true&area_color=39D35320"/>
-</div>
+- MongoDB
+- Express.js
+- React.js
+- Node.js
 
 ---
 
-<!-- ── PRINCIPLES ─────────────────────────────────────────────── -->
+## 📊 GitHub Analytics
 
-## `> cat ./engineering-principles.txt`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekSingh63&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekSingh63&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
 
-```
-01  Build for scale, not just completion.
-02  Prioritize clarity over cleverness.
-03  Ship things. Iterate fast. Stay accountable.
-04  Consistency over intensity — every time.
-05  Understand the problem before touching the keyboard.
-```
-
----
-
-<!-- ── CONNECT ─────────────────────────────────────────────────── -->
-
-## `> ping --connect`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/abhisheksingh63/]
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:9981abhisheksingh@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/AbhishekSingh63)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekSingh63&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-<div align="center">
+## 💡 Competitive Programming Profiles
 
-```
-[ profile views ]
-```
-![](https://komarev.com/ghpvc/?username=AbhishekSingh63&style=flat-square&color=39D353&label=PROFILE+VIEWS)
+<p align="center">
+  
+<a href="https://leetcode.com/u/AbhishekSingh07/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-<br/>
+<a href="https://www.hackerrank.com/profile/AbhishekSingh63">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a>
 
-*"Most people ship dreams. I ship code."*
+<a href="https://www.geeksforgeeks.org/profile/9981abhis9j3d">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 
-</div>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/abhisheksingh63/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://abhishekportfolio05.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+<a href="mailto:9981abhisheksingh@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbhishekSingh63&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
+
+---
+
+## ✨ Developer Quote
+
+<p align="center">
+  
+> "First, solve the problem. Then, write the code." – John Johnson
+
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+```cpp
+while(!success)
+{
+    keepLearning();
+    keepBuilding();
+    stayConsistent();
+}
