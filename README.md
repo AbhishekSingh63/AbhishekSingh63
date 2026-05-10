@@ -8,7 +8,7 @@ Full Stack Developer | Data Science Enthusiast | AI Developer
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%26+Data+Science+Enthusiast;Competitive+Programmer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmJ1N241ZWJkMTZlaDc4NXhiY3JiZWt6aXoxZWgzdmppMHZmZjVhbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" width="100%">
 
 ---
 
