@@ -1,115 +1,156 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
+
+<h3 align="center">
+Full Stack Developer | Data Science Enthusiast | AI Developer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%26+Data+Science+Enthusiast;Competitive+Programmer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmJ1N241ZWJkMTZlaDc4NXhiY3JiZWt6aXoxZWgzdmppMHZmZjVhbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" width="100%">
 
-<br>
+---
 
-```
-$ whoami
-```
+## 🚀 About Me
 
-# Abhishek Kumar Singh
-
-**Full Stack Developer  //  AI & Data Science Enthusiast  //  Competitive Programmer**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Building+AI-Powered+Applications;DSA+%2B+Competitive+Programming;Preparing+for+RBI+Grade+B+%2F+UPSC;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/abhisheksingh63/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=39FF14)](https://abhishekportfolio05.netlify.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:9981abhisheksingh@gmail.com)
-
-</div>
+🎓 B.Tech CSE Student (3rd Year)  
+💻 Passionate about Full Stack Web Development  
+🤖 Exploring Artificial Intelligence & Data Science  
+📈 Strong interest in Competitive Programming and Problem Solving  
+⚡ Building scalable and impactful software solutions  
+🌱 Currently sharpening skills in MERN Stack and DSA  
 
 ---
 
-### `> cat about.txt`
+## 🛠️ Tech Stack
 
-```yaml
-role: B.Tech CSE Student (Final Year) @ Lovely Professional University
-focus: Full Stack Development, AI Integration, Data Science
-currently_building: AI-powered platforms using the MERN stack + Claude API
-preparing_for: RBI Grade B, UPSC, SEBI Officer
-mindset: "First, solve the problem. Then, write the code." — John Johnson
-```
+### 💻 Programming Languages
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript" />
+</p>
 
-### `> ls tech_stack/`
+### 🌐 Web Development
 
-**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript" />
+### 🗄️ Databases
 
-**Web Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+### ⚙️ Tools & Technologies
 
-**Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-<img src="https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=Power%20BI&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/Hadoop-000000?style=for-the-badge&logo=apachehadoop&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/Hive-000000?style=for-the-badge&logo=apachehive&logoColor=39FF14" />
+<p>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
+</p>
 
 ---
 
-### `> ls projects/`
+## 🚀 Featured Project
 
-**🧠 PrepIQ — AI Interview Preparation Platform**
-An intelligent platform helping students and job seekers prepare for technical interviews, covering DSA practice, aptitude, real interview experiences, and AI-powered learning assistance.
-`MongoDB` `Express.js` `React.js` `Node.js` `Claude API`
+### 🧠 PrepIQ
 
-**📑 Tax Filing Assistant Chatbot**
-A conversational assistant that helps users navigate the tax filing process, built to simplify a traditionally complex workflow into a guided chat experience.
-`MERN Stack` `AI/Chatbot`
+An intelligent interview preparation platform designed to help students and job seekers prepare efficiently for technical interviews. The platform focuses on DSA practice, aptitude preparation, interview experiences, and AI-powered learning assistance with a modern and scalable MERN architecture.
 
----
+### ⚡ Tech Stack
 
-### `> ./run_stats.sh`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AbhishekSingh63&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekSingh63&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" height="180em"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekSingh63&theme=highcontrast&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14"/>
-
-</div>
-
-> Note: GitHub stats/streak widgets run on free third-party services (Vercel/Heroku) and occasionally have downtime — if a card doesn't render, it usually resolves on a refresh.
+- MongoDB
+- Express.js
+- React.js
+- Node.js
 
 ---
 
-### `> cat competitive_programming.txt`
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekSingh63&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekSingh63&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/AbhishekSingh63/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=HackerRank&logoColor=39FF14)](https://www.hackerrank.com/profile/AbhishekSingh63)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=39FF14)](https://www.geeksforgeeks.org/profile/9981abhis9j3d)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekSingh63&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-<div align="center">
+## 💡 Competitive Programming Profiles
 
-<img src="https://komarev.com/ghpvc/?username=AbhishekSingh63&label=Profile+Views&color=39FF14&style=for-the-badge" alt="profile views" />
+<p align="center">
+  
+<a href="https://leetcode.com/u/AbhishekSingh07/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/AbhishekSingh63">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/9981abhis9j3d">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/abhisheksingh63/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://abhishekportfolio05.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+<a href="mailto:9981abhisheksingh@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbhishekSingh63&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
+
+---
+
+## ✨ Developer Quote
+
+<p align="center">
+  
+> "First, solve the problem. Then, write the code." – John Johnson
+
+</p>
+
+---
+
+## ⚡ Fun Fact
 
 ```cpp
-while (!success) {
+while(!success)
+{
     keepLearning();
     keepBuilding();
     stayConsistent();
 }
-```
-
-</div>
