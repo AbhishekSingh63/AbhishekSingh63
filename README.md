@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
 
 <h3 align="center">
-Full Stack Developer | Data Science Enthusiast | AI Developer
-</h3>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%26+Data+Science+Enthusiast;Competitive+Programmer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
+</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmJ1N241ZWJkMTZlaDc4NXhiY3JiZWt6aXoxZWgzdmppMHZmZjVhbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" width="100%">
